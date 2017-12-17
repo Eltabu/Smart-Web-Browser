@@ -1,8 +1,5 @@
 <h1>Smart Web Browser (2011 Version)</h1>
-<p>The vehicle rental solution VRS is a web system generator aimed to provide a platform 
-and tools to server different kinds of online rental system with ability to configure the the system to serve different needs. 
-the system has four main components: vehicle management component, report and analysis component, 
-the customer service component, and the web portal component. </p>
+<p>Smart Web browser with integrated database developed using Visual Basic.NET in 2009 as part of school project</p>
 
 <h2>Features</h2>
 <ul>
