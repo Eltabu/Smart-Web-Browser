@@ -1,0 +1,111 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SWP_2011
+</name>
+</assembly>
+<members>
+<member name="M:SWP_2011.Add_Library.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:SWP_2011.Add_Library">
+	<summary>
+Add_Library
+</summary>
+</member><member name="M:SWP_2011.Feedback1.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:SWP_2011.Feedback1">
+	<summary>
+Feedback1
+</summary>
+</member><member name="M:SWP_2011.Dowinloads_Report.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:SWP_2011.Dowinloads_Report">
+	<summary>
+Dowinloads_Report
+</summary>
+</member><member name="M:SWP_2011.SWB_History.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:SWP_2011.SWB_History">
+	<summary>
+SWB_History
+</summary>
+</member><member name="M:SWP_2011.Edit_Page.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:SWP_2011.Edit_Page">
+	<summary>
+Edit_Page
+</summary>
+</member><member name="M:SWP_2011.Window2.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:SWP_2011.Window2">
+	<summary>
+Window2
+</summary>
+</member><member name="M:SWP_2011.Application.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:SWP_2011.Application.Main">
+	<summary>
+Application Entry Point.
+</summary>
+</member><member name="T:SWP_2011.Application">
+	<summary>
+Application
+</summary>
+</member><member name="M:SWP_2011.MainWindow.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:SWP_2011.MainWindow">
+	<summary>
+MainWindow
+</summary>
+</member><member name="M:SWP_2011.Most_visited.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:SWP_2011.Most_visited">
+	<summary>
+Most_visited
+</summary>
+</member><member name="M:SWP_2011.Download.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:SWP_2011.Download">
+	<summary>
+Download
+</summary>
+</member><member name="M:SWP_2011.Email.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:SWP_2011.Email">
+	<summary>
+Email
+</summary>
+</member><member name="M:SWP_2011.Source.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:SWP_2011.Source">
+	<summary>
+Source
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SWP_2011", "SWP_2011\SWP_2011.vbproj", "{8a18f42c-f2b2-455d-8396-9e5ab4ee2794}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A18F42C-F2B2-455D-8396-9E5AB4EE2794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A18F42C-F2B2-455D-8396-9E5AB4EE2794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A18F42C-F2B2-455D-8396-9E5AB4EE2794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A18F42C-F2B2-455D-8396-9E5AB4EE2794}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
